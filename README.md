@@ -1,2 +1,4 @@
 # App1_en_Xamarin_Forms
-Muestre un mensaje de saludo con su nombre y apellido.
+Saludos Profesos,
+Mi nombre es Tito Matos
+He subido el proyecto directamente desde mi computadora.
